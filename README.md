@@ -135,13 +135,13 @@ Continuous Monitoring
 
 ## 📊 Features
 
-* Real-Time Network Monitoring
-* ARP Spoofing Detection
-* Gateway Validation
-* Duplicate MAC Identification
-* Security Event Logging
-* MITM Threat Investigation Support
-* Lightweight Python-Based Architecture
+- Real-Time Network Monitoring
+- ARP Spoofing Detection
+- Gateway Validation
+- Duplicate MAC Identification
+- Security Event Logging
+- MITM Threat Investigation Support
+- Lightweight Python-Based Architecture
 
 ---
 
