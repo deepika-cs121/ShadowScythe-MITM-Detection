@@ -111,18 +111,7 @@ The system combines network scanning, ARP table analysis, packet inspection, and
 
 ## 🏗️ Detection Workflow
 
-```mermaid
-flowchart LR
-    A[Network Scan] --> B[Device Identification]
-    B --> C[ARP Table Monitoring]
-    C --> D[Gateway Integrity Check]
-    D --> E[Duplicate MAC Detection]
-    E --> F[MITM Attack Detection]
-    F --> G[Threat Classification]
-    G --> H[Alert & Log Generation]
-    H --> I[Incident Investigation Support]
-```
-
+**Network Scan → Device Identification → ARP Table Monitoring → Gateway Integrity Check → Duplicate MAC Detection → MITM Attack Detection → Threat Classification → Alert & Log Generation → Incident Investigation Support**
 
 
 ---
