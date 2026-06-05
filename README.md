@@ -125,12 +125,11 @@ Continuous Monitoring
 
 ## 📈 Results
 
-* Achieved **92% detection accuracy** in identifying ARP spoofing and Man-in-the-Middle (MITM) attack scenarios.
-* Reduced incident response time by **30%** through automated threat detection and alert generation.
-* Successfully detected duplicate MAC address mappings and gateway impersonation attempts.
-* Improved network visibility by continuously monitoring IP-to-MAC associations across the network.
-* Generated investigation-ready security logs to support threat analysis and incident response activities.
-* Demonstrated reliable detection of suspicious network behavior within a controlled laboratory environment.
+* Achieved **92% detection accuracy** for ARP spoofing attacks.
+* Reduced incident response time by **30%** through automated alerting.
+* Successfully detected duplicate MAC addresses used in MITM attack scenarios.
+* Identified gateway impersonation attempts by validating IP-to-MAC mappings across the network.
+* Generated real-time alerts and investigation logs to support threat analysis and incident response.
 
 ---
 
@@ -148,12 +147,12 @@ Continuous Monitoring
 
 ## 🚀 Future Enhancements
 
-• DNS Hijacking Detection
-• Machine Learning-Based Anomaly Detection
-• Interactive Threat Monitoring Dashboard
-• Email & Telegram Alert Integration
-• SIEM & Log Management Integration
-• Automated Threat Response Mechanisms
+* DNS Hijacking Detection
+* Machine Learning-Based Anomaly Detection
+* Interactive Threat Monitoring Dashboard
+* Email & Telegram Alert Integration
+* SIEM & Log Management Integration
+* Automated Threat Response Mechanisms
 
 ---
 
