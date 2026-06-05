@@ -1,10 +1,10 @@
-# 🛡️ ShadowScythe: MITM Threat Detection System
+# 🧠 ShadowScythe: MITM Threat Detection System
 
 ## 📘 Overview
 
-ShadowScythe is a network security monitoring and threat detection system designed to identify Man-in-the-Middle (MITM) attacks in real time. The project focuses on detecting ARP spoofing, gateway impersonation, and suspicious network behavior by continuously monitoring network traffic and validating IP-to-MAC address mappings.
+**ShadowScythe** is a **Network Security Monitoring and Threat Detection System** designed to identify **Man-in-the-Middle (MITM) Attacks** in real time. The project focuses on detecting **ARP Spoofing**, **Gateway Impersonation**, and **Suspicious Network Activity** by continuously monitoring network traffic and validating **IP-to-MAC Address Mappings**.
 
-The system combines network scanning, ARP table analysis, packet inspection, and automated alert generation to help security analysts detect malicious nodes before they can compromise network communications.
+The system combines **Network Scanning**, **ARP Table Analysis**, **Packet Inspection**, and **Automated Alert Generation** to help security analysts identify **Malicious Nodes**, detect potential threats, and protect network communications before they can be compromised.
 
 ---
 
