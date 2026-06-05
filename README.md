@@ -154,9 +154,3 @@ Continuous Monitoring
 * SIEM & Log Management Integration
 * Automated Threat Response Mechanisms
 
----
-
-⚠️ Disclaimer
-
-This project was developed for educational and defensive cybersecurity purposes.
-All testing was conducted in controlled laboratory environments.
