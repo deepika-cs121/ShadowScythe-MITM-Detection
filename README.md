@@ -118,19 +118,17 @@ Device Discovery
       ↓
 ARP Table Analysis
       ↓
-MAC Address Verification
+Gateway Validation
       ↓
 Duplicate MAC Detection
       ↓
-Gateway Integrity Check
-      ↓
 MITM Threat Detection
       ↓
-Suspicious Device Identification
+Threat Identification
       ↓
 Alert & Log Generation
       ↓
-Continuous Network Monitoring
+Continuous Monitoring
 ```
 
 
