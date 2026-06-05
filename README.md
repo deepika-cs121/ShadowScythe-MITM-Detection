@@ -112,37 +112,21 @@ The system combines network scanning, ARP table analysis, packet inspection, and
 ## 🏗️ Detection Workflow
 
 Network Scan
-
-↓
-
+      ↓
 Device Discovery
-
-↓
-
+      ↓
 ARP Table Collection
-
-↓
-
+      ↓
 IP-MAC Validation
-
-↓
-
+      ↓
 Duplicate MAC Detection
-
-↓
-
+      ↓
 Threat Verification
-
-↓
-
+      ↓
 Alert Generation
-
-↓
-
+      ↓
 Log Storage
-
-↓
-
+      ↓
 Continuous Monitoring
 
 ---
