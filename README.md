@@ -109,30 +109,25 @@ The system combines network scanning, ARP table analysis, packet inspection, and
 
 ---
 
-## 🏗️ Detection Pipeline
+## 🏗️ Detection Workflow
 
-Network Discovery
-      │
-      ▼
-Device Enumeration
-      │
-      ▼
-ARP Table Analysis
-      │
-      ▼
-Gateway Validation
-      │
-      ▼
-Anomaly Detection
-      │
-      ▼
-MITM Threat Detection
-      │
-      ▼
+Network Scan
+↓
+Device Identification
+↓
+ARP Table Monitoring
+↓
+Gateway Integrity Check
+↓
+Duplicate MAC Detection
+↓
+MITM Attack Detection
+↓
+Threat Classification
+↓
 Alert & Log Generation
-      │
-      ▼
-Continuous Monitoring
+↓
+Incident Investigation Support
 
 
 ---
