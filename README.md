@@ -131,35 +131,6 @@ Continuous Monitoring
 
 ---
 
-## 📁 Project Structure
-
-
-ShadowScythe/
-│
-├── src/ # Core application code (ARP detection, packet analysis, monitoring logic)
-│
-├── docs/ # Project documentation and reports
-│ └── ShadowScythe_Report.pdf
-│
-├── screenshots/ # Output screenshots (alerts, terminal output, results)
-│
-├── log_samples/ # Sample logs used for testing and analysis
-│
-├── requirements.txt # Python dependencies (scapy, psutil, netifaces, colorama)
-├── README.md # Project documentation
-└── main.py # Entry point of the application
-
----
-
-## ⚙️ Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/deepika-cs121/ShadowScythe.git
-cd ShadowScythe
-
----
-
 ## 📈 Results
 
 - Achieved **92% detection accuracy** for ARP spoofing attacks.
