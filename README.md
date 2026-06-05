@@ -147,10 +147,9 @@ Continuous Monitoring
 
 ## 🚀 Future Enhancements
 
-* DNS Hijacking Detection
-* Machine Learning-Based Anomaly Detection
-* Interactive Threat Monitoring Dashboard
-* Email & Telegram Alert Integration
-* SIEM & Log Management Integration
-* Automated Threat Response Mechanisms
+* AI-powered anomaly detection.
+* Enhanced secure communication mechanisms.
+* Collaborative multi-device threat detection.
+* Structured ARP event logging and reporting.
+* Continuous rule updates and detection improvements.
 
