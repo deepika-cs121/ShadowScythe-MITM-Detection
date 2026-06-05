@@ -112,7 +112,7 @@ The system combines network scanning, ARP table analysis, packet inspection, and
 ## 🏗️ Detection Workflow
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Network Scan] --> B[Device Identification]
     B --> C[ARP Table Monitoring]
     C --> D[Gateway Integrity Check]
