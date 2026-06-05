@@ -1,4 +1,0 @@
-scapy
-psutil
-netifaces
-colorama
