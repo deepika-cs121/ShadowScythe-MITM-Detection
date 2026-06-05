@@ -98,6 +98,15 @@ The system combines **Network Scanning**, **ARP Table Analysis**, **Packet Inspe
 
 ---
 
+## 📦 Dependencies
+
+- scapy → Packet sniffing and network analysis
+- psutil → System monitoring (CPU, RAM, processes)
+- netifaces → Network interface details (IP, MAC, gateway)
+- colorama → Colored terminal output for alerts
+
+---
+
 ## 🏗️ Detection Workflow
 
 ```text
@@ -119,6 +128,35 @@ Alert & Log Generation
       ↓
 Continuous Monitoring
 ```
+
+---
+
+## 📁 Project Structure
+
+
+ShadowScythe/
+│
+├── src/ # Core application code (ARP detection, packet analysis, monitoring logic)
+│
+├── docs/ # Project documentation and reports
+│ └── ShadowScythe_Report.pdf
+│
+├── screenshots/ # Output screenshots (alerts, terminal output, results)
+│
+├── log_samples/ # Sample logs used for testing and analysis
+│
+├── requirements.txt # Python dependencies (scapy, psutil, netifaces, colorama)
+├── README.md # Project documentation
+└── main.py # Entry point of the application
+
+---
+
+## ⚙️ Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/deepika-cs121/ShadowScythe.git
+cd ShadowScythe
 
 ---
 
