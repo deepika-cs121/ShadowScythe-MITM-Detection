@@ -1,4 +1,4 @@
-# 🧠 ShadowScythe: MITM Threat Detection System
+# 🛡️ ShadowScythe: MITM Threat Detection System
 
 ## 📘 Overview
 
