@@ -101,7 +101,7 @@ The system combines **Network Scanning**, **ARP Table Analysis**, **Packet Inspe
 ## 🏗️ Detection Workflow
 
 ```text
-**Network Scanning**
+Network Scanning
       ↓
 Device Discovery
       ↓
