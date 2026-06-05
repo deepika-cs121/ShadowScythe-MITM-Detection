@@ -15,13 +15,12 @@ The system combines network scanning, ARP table analysis, packet inspection, and
 * Gateway Verification – Validate gateway IP-MAC relationships to identify impersonation attempts.
 * Threat Logging – Generate logs for incident investigation and forensic analysis.
 * Automated Response – Identify and isolate suspicious devices on the network.
-* Security Awareness – Demonstrate common MITM attack techniques and defensive strategies.
 
 ---
 
 ## 🔍 Scope
 
-## ✅ In Scope
+### ✅ In Scope
 
 ### MITM Attack Detection
 
@@ -125,12 +124,12 @@ Continuous Monitoring
 
 ## 📈 Results
 
-* Achieved **92% detection accuracy** for ARP spoofing attacks.
-* Reduced incident response time by **30%** through automated alerting.
-* Successfully detected duplicate MAC addresses used in MITM attack scenarios.
-* Identified gateway impersonation attempts by validating IP-to-MAC mappings across the network.
-* Generated real-time alerts and investigation logs to support threat analysis and incident response.
-
+- Achieved **92% detection accuracy** for ARP spoofing attacks.
+- Reduced incident response time by **30%** through automated alerting.
+- Successfully detected duplicate MAC addresses used in MITM attack scenarios.
+- Identified gateway impersonation attempts by validating IP-to-MAC mappings.
+- Generated real-time alerts and investigation logs for threat analysis.
+  
 ---
 
 ## 📊 Features
@@ -147,9 +146,8 @@ Continuous Monitoring
 
 ## 🚀 Future Enhancements
 
-* AI-powered anomaly detection.
-* Enhanced secure communication mechanisms.
-* Collaborative multi-device threat detection.
-* Structured ARP event logging and reporting.
-* Continuous rule updates and detection improvements.
-
+- AI-powered anomaly detection
+- Enhanced secure communication mechanisms
+- Collaborative multi-device threat detection
+- Structured ARP event logging and reporting
+- Continuous rule updates and detection improvements
